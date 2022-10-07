@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diz Olá</string>
+    <string name="btnOla">Olá</string>
+    <string name="btnOutraAtividade">Muda</string>
+</resources>
